@@ -12,3 +12,4 @@ for a in a:
 b = 'This is string testing'
 
 print('This' not in b)
+print("as")
