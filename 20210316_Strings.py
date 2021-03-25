@@ -39,7 +39,8 @@ print(text)
 txt = "Hello, welcome to my world."
 
 x = txt.endswith("my world.")
-
+b = len("my world.")
+print(b)
 print(x)
 
 
